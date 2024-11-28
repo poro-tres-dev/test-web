@@ -1,6 +1,6 @@
 [
     {
-        "Platform Name": "Acala Network (ACA)",
+        "Platform Name": "Acala Network",
         "Platform Code": "acala",
         "Type": "Network",
         "FinOS": "Yes",
@@ -23,7 +23,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Akash (AKT)",
+        "Platform Name": "Akash",
         "Platform Code": "akash",
         "Type": "Network",
         "FinOS": "Yes",
@@ -46,7 +46,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Algorand (ALGO)",
+        "Platform Name": "Algorand",
         "Platform Code": "algorand",
         "Type": "Network",
         "FinOS": "Yes",
@@ -56,7 +56,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Aptos (APT)",
+        "Platform Name": "Aptos",
         "Platform Code": "aptos",
         "Type": "Network",
         "FinOS": "Yes",
@@ -68,7 +68,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Arbitrum (ARB)",
+        "Platform Name": "Arbitrum",
         "Platform Code": "arbitrum",
         "Type": "Network",
         "FinOS": "Yes",
@@ -79,7 +79,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Arbitrum Nova (ARB)",
+        "Platform Name": "Arbitrum Nova",
         "Platform Code": "nova",
         "Type": "Network",
         "FinOS": "Yes",
@@ -108,7 +108,15 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "AssetMantle ",
+        "Platform Name": "AscendEX",
+        "Platform Code": "ascendex",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "AssetMantle",
         "Platform Code": "asset_mantle",
         "Type": "Network",
         "FinOS": "Yes",
@@ -116,7 +124,7 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Astar (Substrate)",
+        "Platform Name": "Astar",
         "Platform Code": "substrate_astar",
         "Type": "Network",
         "FinOS": "Yes",
@@ -157,7 +165,7 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Avalanche (AVAX) C Chain",
+        "Platform Name": "Avalanche",
         "Platform Code": "avalanche_c_chain",
         "Type": "Network",
         "FinOS": "Yes",
@@ -167,7 +175,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Avalanche (AVAX) P Chain",
+        "Platform Name": "Avalanche",
         "Platform Code": "avalanche_p_chain",
         "Type": "Network",
         "FinOS": "Yes",
@@ -179,7 +187,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Axelar (AXL)",
+        "Platform Name": "Axelar",
         "Platform Code": "axelar",
         "Type": "Network",
         "FinOS": "Yes",
@@ -211,7 +219,27 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Binance Smart Chain (BSC)",
+        "Platform Name": "Binance Exchange",
+        "Platform Code": "binance_exchange",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Binance Exchange Turkey",
+        "Platform Code": "binance_exchange_tr",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Binance Smart Chain",
         "Platform Code": "binance",
         "Type": "Network",
         "FinOS": "Yes",
@@ -223,7 +251,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Bitcanna (BCNA)",
+        "Platform Name": "Bitcanna",
         "Platform Code": "bitcanna",
         "Type": "Network",
         "FinOS": "Yes",
@@ -233,7 +261,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Bitcoin (BTC)",
+        "Platform Name": "Bitcoin",
         "Platform Code": "bitcoin",
         "Type": "Network",
         "FinOS": "Yes",
@@ -244,7 +272,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Bitcoin Cash (BC)",
+        "Platform Name": "Bitcoin Cash",
         "Platform Code": "bitcoin_cash",
         "Type": "Network",
         "FinOS": "Yes",
@@ -252,9 +280,33 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Bitcoin SV (BC)",
+        "Platform Name": "Bitcoin SV",
         "Platform Code": "bitcoin_sv",
         "Type": "Network",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Bitfinex",
+        "Platform Code": "bitfinex",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Bitget",
+        "Platform Code": "bitget",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "BitGo",
+        "Platform Code": "bitgo",
+        "Type": "Custodian",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes"
@@ -268,6 +320,14 @@
         "Balances": "Yes",
         "Defi Positions": "Yes",
         "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Bitstamp",
+        "Platform Code": "bitstamp",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
     },
     {
         "Platform Name": "Bittensor",
@@ -289,7 +349,15 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Calamari (KMA)",
+        "Platform Name": "Bybit",
+        "Platform Code": "bybit",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Calamari",
         "Platform Code": "calamari",
         "Type": "Network",
         "FinOS": "Yes",
@@ -312,7 +380,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Cardano (ADA)",
+        "Platform Name": "Cardano",
         "Platform Code": "cardano",
         "Type": "Network",
         "FinOS": "Yes",
@@ -324,7 +392,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Casper (CSPR)",
+        "Platform Name": "Casper",
         "Platform Code": "casper",
         "Type": "Network",
         "FinOS": "Yes",
@@ -336,7 +404,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Celestia (TIA)",
+        "Platform Name": "Celestia",
         "Platform Code": "celestia",
         "Type": "Network",
         "FinOS": "Yes",
@@ -392,6 +460,16 @@
         "Staking Positions": "Yes"
     },
     {
+        "Platform Name": "Chihuahua",
+        "Platform Code": "chihuahua",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
         "Platform Name": "Chiliz",
         "Platform Code": "chiliz",
         "Type": "Network",
@@ -401,6 +479,54 @@
         "Defi Positions": "Yes",
         "Staking Positions": "Yes",
         "Historical Balances / Positions (PoF)": "Yes"
+    },
+    {
+        "Platform Name": "Cobo",
+        "Platform Code": "cobo",
+        "Type": "Custodian",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Coinbase Commerce",
+        "Platform Code": "coinbase_commerce",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Coinbase Exchange",
+        "Platform Code": "coinbase_exchange",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Coinbase Prime",
+        "Platform Code": "coinbase_prime",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Coinbase Retail",
+        "Platform Code": "coinbase",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
     },
     {
         "Platform Name": "Coinbase: Base",
@@ -413,9 +539,29 @@
         "Staking Positions": "Yes"
     },
     {
+        "Platform Name": "Comdex",
+        "Platform Code": "comdex",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
         "Platform Name": "Concordium",
         "Platform Code": "concordium",
         "Type": "Network",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Copper",
+        "Platform Code": "copper",
+        "Type": "Custodian",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes",
@@ -446,7 +592,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Cosmos (ATOM)",
+        "Platform Name": "Cosmos",
         "Platform Code": "cosmos",
         "Type": "Network",
         "FinOS": "Yes",
@@ -468,7 +614,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Cronos (CRO)",
+        "Platform Name": "Cronos",
         "Platform Code": "cronos",
         "Type": "Network",
         "FinOS": "Yes",
@@ -478,9 +624,19 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Crypto.org (CRO)",
+        "Platform Name": "Crypto.org",
         "Platform Code": "cryptocom",
         "Type": "Network",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Deribit",
+        "Platform Code": "deribit",
+        "Type": "Exchange",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes",
@@ -508,7 +664,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Dogecoin (DOGE)",
+        "Platform Name": "Dogecoin",
         "Platform Code": "dogecoin",
         "Type": "Network",
         "FinOS": "Yes",
@@ -541,7 +697,19 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Emerald ",
+        "Platform Name": "EigenLayer",
+        "Platform Code": "etherem",
+        "Type": "Protocol",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes",
+        "Historical Balances / Positions (PoF)": "Yes",
+        "Daily Staking Rewards / Staking Data API": "Yes"
+    },
+    {
+        "Platform Name": "Emerald",
         "Platform Code": "emerald",
         "Type": "Network",
         "FinOS": "Yes",
@@ -571,7 +739,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Ethereum (ETH)",
+        "Platform Name": "Ethereum",
         "Platform Code": "ethereum",
         "Type": "Network",
         "FinOS": "Yes",
@@ -583,7 +751,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Ethereum Classic (ETC)",
+        "Platform Name": "Ethereum Classic",
         "Platform Code": "ethereum_classic",
         "Type": "Network",
         "FinOS": "Yes",
@@ -615,7 +783,17 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Fantom (FTM)",
+        "Platform Name": "FalconX",
+        "Platform Code": "falconx",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Fantom",
         "Platform Code": "fantom",
         "Type": "Network",
         "FinOS": "Yes",
@@ -636,13 +814,23 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Filecoin (FILE)",
+        "Platform Name": "Filecoin",
         "Platform Code": "filecoin",
         "Type": "Network",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes",
         "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Fireblocks",
+        "Platform Code": "fireblocks",
+        "Type": "Custodian",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
         "Staking Positions": "Yes"
     },
     {
@@ -688,7 +876,27 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Gnosis Chain (xDAI)",
+        "Platform Name": "Gate.io",
+        "Platform Code": "gateio",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Gemini",
+        "Platform Code": "gemini",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Gnosis Chain",
         "Platform Code": "gnosis_chain",
         "Type": "Network",
         "FinOS": "Yes",
@@ -697,6 +905,16 @@
         "Defi Positions": "Yes",
         "Staking Positions": "Yes",
         "Historical Balances / Positions (PoF)": "Yes"
+    },
+    {
+        "Platform Name": "Gravity Bridge",
+        "Platform Code": "gravity",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
     },
     {
         "Platform Name": "Haqq",
@@ -711,7 +929,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Harmony (ONE)",
+        "Platform Name": "Harmony",
         "Platform Code": "harmony",
         "Type": "Network",
         "FinOS": "Yes",
@@ -733,6 +951,23 @@
         "Staking Positions": "Yes"
     },
     {
+        "Platform Name": "Huobi",
+        "Platform Code": "huobi",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Hyperliquid",
+        "Platform Code": "hyperliquid",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "Yes",
+        "Defi Positions": "Yes"
+    },
+    {
         "Platform Name": "Immutable ZK EVM",
         "Platform Code": "immutable_zkevm",
         "Type": "Network",
@@ -744,7 +979,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "ImmutableX (IMX)",
+        "Platform Name": "ImmutableX",
         "Platform Code": "immutablex",
         "Type": "Network",
         "FinOS": "Yes",
@@ -753,7 +988,7 @@
         "Defi Positions": "Yes"
     },
     {
-        "Platform Name": "Injective (INJ)",
+        "Platform Name": "Injective",
         "Platform Code": "injective",
         "Type": "Network",
         "FinOS": "Yes",
@@ -773,12 +1008,22 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Internet Computer (ICP)",
+        "Platform Name": "Internet Computer",
         "Platform Code": "internet_computer",
         "Type": "Network",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Irisnet",
+        "Platform Code": "irisnet",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
     },
     {
         "Platform Name": "Juno",
@@ -804,7 +1049,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Karura (KAR)",
+        "Platform Name": "Karura",
         "Platform Code": "karura",
         "Type": "Network",
         "FinOS": "Yes",
@@ -862,9 +1107,19 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Klaytn (KLAY)",
+        "Platform Name": "Klaytn",
         "Platform Code": "klaytn",
         "Type": "Network",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Kraken",
+        "Platform Code": "kraken",
+        "Type": "Exchange",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes",
@@ -882,7 +1137,27 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Kusama (Substrate)",
+        "Platform Name": "Kucoin",
+        "Platform Code": "kucoin",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Kujira",
+        "Platform Code": "kujira",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Kusama",
         "Platform Code": "substrate_kusama",
         "Type": "Network",
         "FinOS": "Yes",
@@ -934,7 +1209,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Litecoin (LTC)",
+        "Platform Name": "Litecoin",
         "Platform Code": "litecoin",
         "Type": "Network",
         "FinOS": "Yes",
@@ -943,6 +1218,28 @@
         "Defi Positions": "",
         "Staking Positions": "",
         "Historical Balances / Positions (PoF)": "Yes"
+    },
+    {
+        "Platform Name": "Livepeer",
+        "Platform Code": "arbitrum",
+        "Type": "Protocol",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes",
+        "Historical Balances / Positions (PoF)": "Yes",
+        "Daily Staking Rewards / Staking Data API": "Yes"
+    },
+    {
+        "Platform Name": "Lum",
+        "Platform Code": "lum",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
     },
     {
         "Platform Name": "Manta Atlantic",
@@ -967,7 +1264,17 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Mantra (OM)",
+        "Platform Name": "Mantle Asset",
+        "Platform Code": "mantle",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Mantra",
         "Platform Code": "mantra",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1031,7 +1338,7 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Moonbeam (GLMR)",
+        "Platform Name": "Moonbeam",
         "Platform Code": "moonbeam",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1042,7 +1349,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Moonriver (MOVR)",
+        "Platform Name": "Moonriver",
         "Platform Code": "moonriver",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1117,7 +1424,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Oasis Emerald (ROSE)",
+        "Platform Name": "Oasis Emerald",
         "Platform Code": "oasis",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1127,6 +1434,14 @@
         "Staking Positions": "Yes",
         "Historical Balances / Positions (PoF)": "",
         "Daily Staking Rewards / Staking Data API": "Only Delegators"
+    },
+    {
+        "Platform Name": "OKX",
+        "Platform Code": "okx",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
     },
     {
         "Platform Name": "OmniFlix",
@@ -1147,7 +1462,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Optimism (OP)",
+        "Platform Name": "Optimism",
         "Platform Code": "optimism",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1158,7 +1473,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Osmosis (OSMO)",
+        "Platform Name": "Osmosis",
         "Platform Code": "osmosis",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1190,7 +1505,15 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Persistence (XPRT)",
+        "Platform Name": "Paxful",
+        "Platform Code": "paxful",
+        "Type": "Exchange",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Persistence",
         "Platform Code": "persistence",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1202,7 +1525,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Polkadot (Substrate)",
+        "Platform Name": "Polkadot",
         "Platform Code": "substrate_polkadot",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1214,7 +1537,7 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Polygon (MATIC)",
+        "Platform Name": "Polygon",
         "Platform Code": "polygon",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1237,7 +1560,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Provenance (HASH)",
+        "Platform Name": "Provenance",
         "Platform Code": "provenance",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1285,7 +1608,7 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Radix (XRD)",
+        "Platform Name": "Radix",
         "Platform Code": "radix",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1303,7 +1626,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Ripple (XRP)",
+        "Platform Name": "Ripple",
         "Platform Code": "ripple",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1314,7 +1637,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Ronin (RON)",
+        "Platform Name": "Ronin",
         "Platform Code": "ronin",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1325,7 +1648,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Rootstock (RSK)",
+        "Platform Name": "Rootstock",
         "Platform Code": "rootstock",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1359,7 +1682,7 @@
         "Historical Balances / Positions (PoF)": "Yes"
     },
     {
-        "Platform Name": "Secret (SCRT)",
+        "Platform Name": "Secret",
         "Platform Code": "secret",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1379,7 +1702,17 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Shentu (CTK)",
+        "Platform Name": "Sentinel",
+        "Platform Code": "sentinel",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
+        "Platform Name": "Shentu",
         "Platform Code": "shentu",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1387,12 +1720,23 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Shiden (Substrate)",
+        "Platform Name": "Shiden",
         "Platform Code": "substrate_shiden",
         "Type": "Network",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Shyft",
+        "Platform Code": "shyft",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes",
+        "Historical Balances / Positions (PoF)": "Yes"
     },
     {
         "Platform Name": "Sifchain",
@@ -1433,7 +1777,7 @@
         "Balances": "Yes"
     },
     {
-        "Platform Name": "Solana (SOL)",
+        "Platform Name": "Solana",
         "Platform Code": "solana",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1455,7 +1799,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Songbird (SGB)",
+        "Platform Name": "Songbird",
         "Platform Code": "flare_songbird",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1478,6 +1822,16 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
+        "Platform Name": "Stargaze",
+        "Platform Code": "stargaze",
+        "Type": "Network",
+        "FinOS": "",
+        "Transactions": "",
+        "Balances": "",
+        "Defi Positions": "",
+        "Staking Positions": "Yes"
+    },
+    {
         "Platform Name": "Starknet",
         "Platform Code": "starknet",
         "Type": "Network",
@@ -1487,7 +1841,7 @@
         "Defi Positions": "Yes"
     },
     {
-        "Platform Name": "Stellar (XLM)",
+        "Platform Name": "Stellar",
         "Platform Code": "stellar",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1517,12 +1871,17 @@
         "Daily Staking Rewards / Staking Data API": "Yes"
     },
     {
-        "Platform Name": "Telegram Open Network (TON)",
+        "Platform Name": "Telegram Open Network",
         "Platform Code": "ton",
         "Type": "Network",
         "FinOS": "Yes",
         "Transactions": "Yes",
         "Balances": "Yes"
+    },
+    {
+        "Platform Name": "Terra",
+        "Platform Code": "terra2",
+        "Type": "Network"
     },
     {
         "Platform Name": "Terra Classic",
@@ -1535,7 +1894,7 @@
         "Staking Positions": "Yes"
     },
     {
-        "Platform Name": "Tezos (XTZ)",
+        "Platform Name": "Tezos",
         "Platform Code": "tezos",
         "Type": "Network",
         "FinOS": "Yes",
@@ -1547,7 +1906,19 @@
         "Daily Staking Rewards / Staking Data API": "Only Delegators"
     },
     {
-        "Platform Name": "Tron (TRX)",
+        "Platform Name": "The graph",
+        "Platform Code": "arbitrum",
+        "Type": "Protocol",
+        "FinOS": "Yes",
+        "Transactions": "Yes",
+        "Balances": "Yes",
+        "Defi Positions": "Yes",
+        "Staking Positions": "Yes",
+        "Historical Balances / Positions (PoF)": "Yes",
+        "Daily Staking Rewards / Staking Data API": "Yes"
+    },
+    {
+        "Platform Name": "Tron",
         "Platform Code": "tron",
         "Type": "Network",
         "FinOS": "Yes",
